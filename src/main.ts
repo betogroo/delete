@@ -13,4 +13,4 @@ registerPlugins(app)
 
 app.mount('#app')
 
-//test-husky ---
+//test-husky ----
